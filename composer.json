@@ -1,8 +1,8 @@
 {
     "name": "devuri/wp-basic-plugin",
-    "type": "wordpress-plugin",
+    "type": "wordpress-theme",
     "license": "GPL-2.0-only",
-    "description": "Plugin File",
+    "description": "Kadence Child Theme",
     "authors": [
         {
             "name": "Uriel Wilson",
