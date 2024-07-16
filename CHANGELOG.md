@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.9](https://github.com/devuri/wp-kadence-child/compare/v0.2.8...v0.2.9) (2024-07-16)
+
+
+### Bug Fixes
+
+* version number Update style.css ([4d73e72](https://github.com/devuri/wp-kadence-child/commit/4d73e725add5fb624c5dcac5f220ebec574afef7))
+
 ## [0.2.8](https://github.com/devuri/wp-kadence-child/compare/v0.2.7...v0.2.8) (2024-07-16)
 
 
