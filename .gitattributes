@@ -15,6 +15,8 @@ psalm.xml                      export-ignore
 phpcs.xml                      export-ignore
 rules.neon                     export-ignore
 phpstan.neon                   export-ignore
+composer.lock                  export-ignore
+composer.json                  export-ignore
 sample-wp-config.php           export-ignore
 release-please-config.json     export-ignore
 README.md                      export-ignore
