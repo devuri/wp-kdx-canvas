@@ -7,7 +7,6 @@ parameters:
     level: 2
     inferPrivatePropertyTypeFromConstructor: true
     treatPhpDocTypesAsCertain: false
-    checkMissingIterableValueType: false
     excludePaths:
         - tests/*
         - tmp/*
