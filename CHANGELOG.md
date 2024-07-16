@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.8](https://github.com/devuri/wp-kadence-child/compare/v0.2.7...v0.2.8) (2024-07-16)
+
+
+### Bug Fixes
+
+* keep vendor dir ([93c4e8b](https://github.com/devuri/wp-kadence-child/commit/93c4e8b0f29c0a61f4fa526fae7ca66cefde73f4))
+
 ## [0.2.7](https://github.com/devuri/wp-kadence-child/compare/v0.2.6...v0.2.7) (2024-07-16)
 
 
