@@ -1,0 +1,62 @@
+{
+    "packages": [
+        {
+            "name": "devuri/plugin-interface",
+            "version": "v0.2.0",
+            "version_normalized": "0.2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devuri/plugin-interface.git",
+                "reference": "2bbd4d5e6fd60af077f86dc7070683c38b162a4d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devuri/plugin-interface/zipball/2bbd4d5e6fd60af077f86dc7070683c38b162a4d",
+                "reference": "2bbd4d5e6fd60af077f86dc7070683c38b162a4d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.3 || ^7.4 || ^8.0"
+            },
+            "require-dev": {
+                "10up/phpcs-composer": "dev-master",
+                "phpstan/phpstan": "^1.8",
+                "phpstan/phpstan-strict-rules": "^1.3",
+                "phpunit/phpunit": "^9.5",
+                "vimeo/psalm": "^4.24 || ^5.0"
+            },
+            "time": "2024-03-23T16:22:10+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Urisoft\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Uriel Wilson",
+                    "email": "uriel@urielwilson.com",
+                    "homepage": "https://urielwilson.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A simple PHP interface designed to provide a consistent structure for WordPress plugins.",
+            "keywords": [
+                "plugins",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/devuri/plugin-interface/issues",
+                "source": "https://github.com/devuri/plugin-interface"
+            },
+            "install-path": "../devuri/plugin-interface"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
