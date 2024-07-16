@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.6](https://github.com/devuri/wp-kadence-child/compare/v0.2.5...v0.2.6) (2024-07-16)
+
+
+### Bug Fixes
+
+* remove readme file Update .gitattributes ([de94a9a](https://github.com/devuri/wp-kadence-child/commit/de94a9a26ab8a4a6639e4b63980ac0052ce21cd6))
+
 ## [0.2.5](https://github.com/devuri/wp-kadence-child/compare/v0.2.4...v0.2.5) (2024-07-16)
 
 
