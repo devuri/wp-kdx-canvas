@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.7](https://github.com/devuri/wp-kadence-child/compare/v0.2.6...v0.2.7) (2024-07-16)
+
+
+### Bug Fixes
+
+* updates names and dev tooling ([c35bcdc](https://github.com/devuri/wp-kadence-child/commit/c35bcdc7da277a6f98f1f0d650476727a019221a))
+
 ## [0.2.6](https://github.com/devuri/wp-kadence-child/compare/v0.2.5...v0.2.6) (2024-07-16)
 
 
