@@ -14,22 +14,41 @@
     "require": {
         "php": "^7.3 || ^7.4 || ^8.0 || ^8.1",
         "ext-curl": "*",
-        "ext-json": "*"
+        "ext-json": "*",
+        "devuri/plugin-interface": "^0.2.0"
     },
     "require-dev": {
+        "ergebnis/composer-normalize": "^2.42",
+        "fakerphp/faker": "^1.23",
         "phpstan/phpstan": "^1.10",
         "symfony/var-dumper": "^5.4",
         "szepeviktor/phpstan-wordpress": "^1.3",
-        "yoast/phpunit-polyfills": "^2.0",
-        "fakerphp/faker": "^1.23",
-        "ergebnis/composer-normalize": "^2.42"
+        "wptrt/wpthemereview": "^0.2.1",
+        "yoast/phpunit-polyfills": "^2.0"
+    },
+	"autoload": {
+        "files": [
+            "src/inc/helpers.php"
+        ],
+        "psr-4": {
+            "Kdx\\": "src"
+        }
     },
     "autoload-dev": {
+		"files": [
+            "src/inc/helpers.php"
+        ],
         "psr-4": {
-            "PageAccessRedirect\\Tests\\": "tests/"
+            "Kdx\\Tests\\": "tests/"
         }
     },
     "scripts": {
+		"build": [
+            "composer phpstan",
+			"composer codefix",
+            "composer test",
+            "composer install --no-dev"
+        ],
         "codefix": [
             "composer php-cs-fixer",
             "composer install --no-dev"
@@ -44,13 +63,6 @@
             "composer install",
             "@php ./vendor/bin/phpstan analyse"
         ],
-        "psalm": "vendor/bin/psalm",
-        "psalm-autofix": [
-            "composer install -q",
-            "vendor/bin/psalm --alter --issues=InvalidNullableReturnType,MismatchingDocblockReturnType,InvalidReturnType,InvalidFalsableReturnType,LessSpecificReturnType,MissingParamType"
-        ],
-        "psalm-info": "vendor/bin/psalm --show-info=true",
-        "psalm-secure": "vendor/bin/psalm --taint-analysis",
         "test": [
             "composer install -q",
             "vendor/bin/phpunit",
