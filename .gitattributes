@@ -17,4 +17,5 @@ rules.neon                     export-ignore
 phpstan.neon                   export-ignore
 sample-wp-config.php           export-ignore
 release-please-config.json     export-ignore
+README.md                      export-ignore
 /.release-please-manifest.json export-ignore
