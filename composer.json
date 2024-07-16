@@ -26,7 +26,7 @@
         "wptrt/wpthemereview": "^0.2.1",
         "yoast/phpunit-polyfills": "^2.0"
     },
-	"autoload": {
+    "autoload": {
         "files": [
             "src/inc/helpers.php"
         ],
@@ -35,7 +35,7 @@
         }
     },
     "autoload-dev": {
-		"files": [
+        "files": [
             "src/inc/helpers.php"
         ],
         "psr-4": {
@@ -43,9 +43,9 @@
         }
     },
     "scripts": {
-		"build": [
+        "build": [
             "composer phpstan",
-			"composer codefix",
+            "composer codefix",
             "composer test",
             "composer install --no-dev"
         ],
