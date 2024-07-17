@@ -10,7 +10,7 @@ Kdx Canvas is a child theme for the Kadence WordPress theme. It allows you to cu
 - Easy to customize with your own CSS and PHP code.
 - Safe from updates to the parent theme.
 
-![wp-kadence-child-screenshot](https://github.com/user-attachments/assets/1279b251-b8f1-495c-9554-7e308703fbda)
+![wp-kdx-canvas-screenshot](https://github.com/user-attachments/assets/1279b251-b8f1-495c-9554-7e308703fbda)
 
 ## Installation
 
@@ -19,9 +19,9 @@ Kdx Canvas is a child theme for the Kadence WordPress theme. It allows you to cu
 1. Open your terminal and navigate to your WordPress project directory.
 2. Run the following command to install the Kadence Child theme:
     ```bash
-    composer require devuri/wp-kadence-child
+    composer require devuri/wp-kdx-canvas
     ```
-3. The theme will be installed in the `wp-content/themes/wp-kadence-child` directory.
+3. The theme will be installed in the `wp-content/themes/wp-kdx-canvas` directory.
 
 ### Manual Installation
 
@@ -46,11 +46,11 @@ Kdx Canvas is a child theme for the Kadence WordPress theme. It allows you to cu
 
 ### Custom CSS
 
-Add your custom styles in the `style.css` file located in the `wp-kadence-child` folder.
+Add your custom styles in the `style.css` file located in the `wp-kdx-canvas` folder.
 
 ### Custom PHP Functions
 
-Add your custom PHP functions in the `functions.php` file located in the `wp-kadence-child` folder. Here is an example of how to enqueue the parent and child theme styles:
+Add your custom PHP functions in the `functions.php` file located in the `wp-kdx-canvas` folder. Here is an example of how to enqueue the parent and child theme styles:
 
 ```php
 <?php
