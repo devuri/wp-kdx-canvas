@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.11](https://github.com/devuri/wp-kdx-canvas/compare/v0.2.10...v0.2.11) (2024-07-17)
+
+
+### Bug Fixes
+
+* theme name updateUpdate README.md ([5c8316e](https://github.com/devuri/wp-kdx-canvas/commit/5c8316eff2815c6c116b3fe603a7c546f6a741fe))
+
 ## [0.2.10](https://github.com/devuri/wp-kadence-child/compare/v0.2.9...v0.2.10) (2024-07-17)
 
 
