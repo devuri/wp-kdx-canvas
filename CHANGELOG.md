@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/devuri/wp-kadence-child/compare/v0.2.9...v0.2.10) (2024-07-17)
+
+
+### Bug Fixes
+
+* add screenshot to readme Update README.md ([46f83ee](https://github.com/devuri/wp-kadence-child/commit/46f83ee42daac341da65e28d029f32ede4e0fe3b))
+
 ## [0.2.9](https://github.com/devuri/wp-kadence-child/compare/v0.2.8...v0.2.9) (2024-07-16)
 
 
