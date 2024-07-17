@@ -4,13 +4,13 @@
 
 Kadence Child Theme is a child theme for the Kadence WordPress theme. It allows you to customize and extend the functionality of the Kadence theme without losing your changes when the parent theme is updated.
 
-![wp-kadence-child-screenshot](https://github.com/user-attachments/assets/1279b251-b8f1-495c-9554-7e308703fbda)
-
 ## Features
 
 - Inherits all features and functionalities of the Kadence theme.
 - Easy to customize with your own CSS and PHP code.
 - Safe from updates to the parent theme.
+
+![wp-kadence-child-screenshot](https://github.com/user-attachments/assets/1279b251-b8f1-495c-9554-7e308703fbda)
 
 ## Installation
 
