@@ -1,8 +1,8 @@
-# Kadence Child Theme
+# Kdx Canvas
 
 ## Overview
 
-Kadence Child Theme is a child theme for the Kadence WordPress theme. It allows you to customize and extend the functionality of the Kadence theme without losing your changes when the parent theme is updated.
+Kdx Canvas is a child theme for the Kadence WordPress theme. It allows you to customize and extend the functionality of the Kadence theme without losing your changes when the parent theme is updated.
 
 ## Features
 
