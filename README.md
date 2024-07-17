@@ -32,7 +32,7 @@ Kadence Child Theme is a child theme for the Kadence WordPress theme. It allows 
 
 #### 2. Upload to WordPress
 
-1. Connect to your WordPress site via FTP or use the File Manager in your hosting control panel.
+1. Connect to your WordPress site via SFTP or use the File Manager in your hosting control panel.
 2. Navigate to `wp-content/themes`.
 3. Upload the entire `kadence-child` folder to the `themes` directory.
 
