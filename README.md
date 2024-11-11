@@ -12,6 +12,14 @@ Kdx Canvas is a child theme for the Kadence WordPress theme. It allows you to cu
 
 ![wp-kdx-canvas-screenshot](https://github.com/user-attachments/assets/1279b251-b8f1-495c-9554-7e308703fbda)
 
+
+## ⚠️ Caution: Starter Template Usage
+
+This repository provides a **starter template** for creating a child theme based on the Kadence WordPress theme. While you can use it directly, it is intended more as a **convenient starting point** for your customization needs. This template is designed to help you extend and personalize the Kadence theme, maintaining compatibility with updates to the parent theme. 
+
+> **Important Note:** If you intend to make significant modifications, it’s recommended to fork this repository or clone it directly instead of installing it via Composer. This approach ensures you retain control over your customizations without being affected by future updates or re-installations.
+
+
 ## Installation
 
 ### Via Composer
