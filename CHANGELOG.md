@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.13](https://github.com/devuri/wp-kdx-canvas/compare/v0.2.12...v0.2.13) (2024-11-11)
+
+
+### Bug Fixes
+
+* Update README.md ([aa9d09b](https://github.com/devuri/wp-kdx-canvas/commit/aa9d09b7727f03d25ce2aee650957efdbf898fe9))
+
 ## [0.2.12](https://github.com/devuri/wp-kdx-canvas/compare/v0.2.11...v0.2.12) (2024-07-17)
 
 
